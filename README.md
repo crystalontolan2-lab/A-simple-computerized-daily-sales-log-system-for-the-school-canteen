@@ -1,0 +1,1 @@
+# A-simple-computerized-daily-sales-log-system-for-the-school-canteen
